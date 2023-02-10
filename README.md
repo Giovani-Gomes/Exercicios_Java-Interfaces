@@ -1,4 +1,5 @@
  # Lista de Exercicios Interfaces <img align="" alt="Java" height="30" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+ ![GitHub repo size](https://img.shields.io/github/repo-size/Giovani-Gomes/Exercicios_Java-Interfaces)
 
 - [x] [Exercício 01 - Escreva uma classe FiguraGeometrica com atributos nome e cor. Escreva uma classe Figura2D e uma classe Figura3D. Ambas classes Figura2D e Figura3D são subclasses da classe FiguraGeometrica. Crie ainda as classes Circulo, Quadrado e Triangulo que estendem a classe Figura2D e crie também as classes Cubo e Cilindro e Pirâmide que estendem a classe Figura3d](https://github.com/Giovani-Gomes/Exercicos_Java-Interfaces/tree/main/Exerc%C3%ADcio%2001/src)
   
